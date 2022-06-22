@@ -2,7 +2,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using Object = UnityEngine.Object;
 
-namespace ThreeKingdoms.Framework.Asset
+namespace CatSGS.Framework.Asset
 {
     /// <summary>
     /// 资源绑定器，用于自动卸载资源
