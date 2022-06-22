@@ -1,4 +1,4 @@
-﻿namespace ThreeKingdoms.Framework.UI
+﻿namespace CatSGS.Framework.UI
 {
     /// <summary>
     /// UIItem数据接口

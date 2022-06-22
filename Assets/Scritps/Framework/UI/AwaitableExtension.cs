@@ -1,7 +1,7 @@
 ﻿using System.Threading.Tasks;
 using UnityEngine;
 
-namespace ThreeKingdoms.Framework.UI
+namespace CatSGS.Framework.UI
 {
     /// <summary>
     /// 可等待扩展

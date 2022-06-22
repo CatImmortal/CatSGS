@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace ThreeKingdoms.Framework.FSM
+namespace CatSGS.Framework.FSM
 {
     /// <summary>
     /// 有限状态机

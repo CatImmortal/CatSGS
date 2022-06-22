@@ -1,7 +1,7 @@
 ﻿using System.Threading.Tasks;
 using UnityEngine;
 
-namespace ThreeKingdoms.Framework.GameObjectPool
+namespace CatSGS.Framework.GameObjectPool
 {
     /// <summary>
     /// 可等待扩展

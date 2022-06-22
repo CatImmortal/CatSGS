@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace ThreeKingdoms.Framework
+namespace CatSGS.Framework
 {
     /// <summary>
     /// 游戏管理器基类

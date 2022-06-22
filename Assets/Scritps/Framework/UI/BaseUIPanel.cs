@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
-using ThreeKingdoms.Framework.Utils;
+using CatSGS.Framework.Utils;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace ThreeKingdoms.Framework.UI
+namespace CatSGS.Framework.UI
 {
     /// <summary>
     /// UI面板基类

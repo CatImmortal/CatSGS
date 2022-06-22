@@ -4,7 +4,7 @@ using UnityEngine;
 using CatAsset;
 using Object = UnityEngine.Object;
 
-namespace ThreeKingdoms.Framework.Asset
+namespace CatSGS.Framework.Asset
 {
     /// <summary>
     /// 资源管理器

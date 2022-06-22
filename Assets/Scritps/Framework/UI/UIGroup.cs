@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace ThreeKingdoms.Framework.UI
+namespace CatSGS.Framework.UI
 {
     /// <summary>
     /// UI组

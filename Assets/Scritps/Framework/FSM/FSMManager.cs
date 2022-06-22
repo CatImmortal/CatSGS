@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace ThreeKingdoms.Framework.FSM
+namespace CatSGS.Framework.FSM
 {
     /// <summary>
     /// 有限状态机管理器

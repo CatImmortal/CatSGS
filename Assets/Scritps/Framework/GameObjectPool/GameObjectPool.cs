@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace ThreeKingdoms.Framework.GameObjectPool
+namespace CatSGS.Framework.GameObjectPool
 {
     /// <summary>
     /// 游戏对象池

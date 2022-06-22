@@ -1,6 +1,6 @@
 using System;
 
-namespace ThreeKingdoms.Framework.FSM
+namespace CatSGS.Framework.FSM
 {
     /// <summary>
     /// 流程状态特性

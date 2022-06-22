@@ -1,4 +1,4 @@
-namespace ThreeKingdoms.Framework.FSM
+namespace CatSGS.Framework.FSM
 {
     /// <summary>
     /// 有限状态机状态基类

@@ -1,4 +1,4 @@
-namespace ThreeKingdoms.Framework
+namespace CatSGS.Framework
 {
     /// <summary>
     /// 数据模块基类

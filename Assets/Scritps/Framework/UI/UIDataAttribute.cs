@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ThreeKingdoms.Framework.UI
+namespace CatSGS.Framework.UI
 {
     /// <summary>
     /// UI数据特性

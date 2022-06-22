@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace ThreeKingdoms.Framework.Utils
+namespace CatSGS.Framework.Utils
 {
     /// <summary>
     /// 用于GameObject的扩展方法类

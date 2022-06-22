@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace ThreeKingdoms.Framework.GameObjectPool
+namespace CatSGS.Framework.GameObjectPool
 {
     /// <summary>
     /// 池对象

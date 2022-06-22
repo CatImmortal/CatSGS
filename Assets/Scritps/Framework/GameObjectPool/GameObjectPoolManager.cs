@@ -1,9 +1,9 @@
 using System;
 using System.Collections.Generic;
+using CatSGS.Framework.Asset;
 using UnityEngine;
-using ThreeKingdoms.Framework.Asset;
 
-namespace ThreeKingdoms.Framework.GameObjectPool
+namespace CatSGS.Framework.GameObjectPool
 {
     /// <summary>
     /// 游戏对象池管理器

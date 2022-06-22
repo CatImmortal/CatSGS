@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace ThreeKingdoms.Framework.Event
+namespace CatSGS.Framework.Event
 {
     /// <summary>
     /// 事件管理器

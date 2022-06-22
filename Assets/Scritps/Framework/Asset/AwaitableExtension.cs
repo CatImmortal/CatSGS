@@ -1,9 +1,9 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
 using UnityEngine;
-using ThreeKingdoms.Framework.Utils;
+using CatSGS.Framework.Utils;
 
-namespace ThreeKingdoms.Framework.Asset
+namespace CatSGS.Framework.Asset
 {
     /// <summary>
     /// 可等待扩展
