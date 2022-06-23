@@ -31,12 +31,14 @@ namespace CatSGS.Gameplay.Battle
             Players = players;
             
             InitDrawPile();
+            Table.ShuffleCards(PileType.Draw);
         }
 
         /// <summary>
         /// 初始化摸牌堆
         /// </summary>
         protected abstract void InitDrawPile();
+
 
 
     }

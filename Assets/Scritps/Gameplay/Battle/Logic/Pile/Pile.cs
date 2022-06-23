@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using UnityEngine;
 
 namespace CatSGS.Gameplay.Battle
 {
@@ -89,7 +90,11 @@ namespace CatSGS.Gameplay.Battle
         /// </summary>
         public void ShuffleCards()
         {
-            
+            for (int i = 0; i < cards.Count; i++)
+            {
+                int randomIndex = Random.Range(0, cards.Count);
+                (cards[i], cards[randomIndex]) = (cards[randomIndex], cards[i]);
+            }
         }
     }
 }

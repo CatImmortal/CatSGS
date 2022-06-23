@@ -5,6 +5,8 @@
     /// </summary>
     public class LocalPlayer : BasePlayer
     {
-        
+        public LocalPlayer(PlayerType playerType) : base(playerType)
+        {
+        }
     }
 }

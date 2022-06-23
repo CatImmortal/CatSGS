@@ -24,5 +24,13 @@ namespace CatSGS.Gameplay.Battle
         {
             pileDict[type].PushCard(card);
         }
+        
+        /// <summary>
+        /// 洗牌
+        /// </summary>
+        public void ShuffleCards(PileType type)
+        {
+            pileDict[type].ShuffleCards();
+        }
     }
 }
