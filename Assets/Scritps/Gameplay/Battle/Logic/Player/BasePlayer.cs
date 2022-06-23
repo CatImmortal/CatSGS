@@ -7,11 +7,12 @@ namespace CatSGS.Gameplay.Battle
     /// </summary>
     public abstract class BasePlayer
     {
+
         /// <summary>
         /// 玩家类型
         /// </summary>
-        public PlayerType PlayerType { get; }
-        
+        public abstract PlayerType PlayerType { get; }
+
         /// <summary>
         /// 身份类型
         /// </summary>
@@ -47,10 +48,8 @@ namespace CatSGS.Gameplay.Battle
         /// </summary>
         private Dictionary<PileType, Pile> pileDict = new Dictionary<PileType, Pile>();
 
-        public BasePlayer(PlayerType playerType)
+        public BasePlayer()
         {
-            PlayerType = playerType;
-
             //摸牌阶段默认摸2张牌
             DrawCardNum.BaseValue = 2;
             

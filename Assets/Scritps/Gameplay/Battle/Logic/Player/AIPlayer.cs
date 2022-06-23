@@ -5,8 +5,6 @@
     /// </summary>
     public class AIPlayer : BasePlayer
     {
-        public AIPlayer(PlayerType playerType) : base(playerType)
-        {
-        }
+        public override PlayerType PlayerType => PlayerType.AI;
     }
 }

@@ -5,8 +5,6 @@
     /// </summary>
     public class LocalPlayer : BasePlayer
     {
-        public LocalPlayer(PlayerType playerType) : base(playerType)
-        {
-        }
+        public override PlayerType PlayerType => PlayerType.Local;
     }
 }
