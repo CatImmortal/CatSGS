@@ -1,9 +1,9 @@
 ﻿namespace CatSGS.Gameplay.Battle
 {
     /// <summary>
-    /// 牌桌
+    /// 本地玩家
     /// </summary>
-    public class CardTable
+    public class LocalPlayer : BasePlayer
     {
         
     }

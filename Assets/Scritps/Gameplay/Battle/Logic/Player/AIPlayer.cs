@@ -1,9 +1,9 @@
 ﻿namespace CatSGS.Gameplay.Battle
 {
     /// <summary>
-    /// 牌堆
+    /// AI玩家
     /// </summary>
-    public class Pile
+    public class AIPlayer : BasePlayer
     {
         
     }

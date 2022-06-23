@@ -12,4 +12,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e885dd3cba8046ce85f9c00632ffcd95, type: 3}
   m_Name: CardDataList
   m_EditorClassIdentifier: 
-  Datas: []
+  Datas:
+  - DisplayName: "\u6740"
+    InnerName: sha
+    Type: 100
+    SkillName: 
+  - DisplayName: "\u95EA"
+    InnerName: shan
+    Type: 100
+    SkillName: 
+  - DisplayName: "\u6843"
+    InnerName: tao
+    Type: 100
+    SkillName: 
